@@ -49,3 +49,4 @@ blinker~=1.9.0
 validators~=0.35.0
 importlib-metadata~=8.7.0
 jsonschema-specifications~=2025.4.1
+python-dotenv~=1.1.1
